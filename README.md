@@ -1,4 +1,6 @@
 # New York Lisiting Summary
+https://nycairbnblistingsinsights.blogspot.com/2022/03/nyc-airbnb-listings-insights.html
+
 *The libraries used:*
 - Pandas
 - Numpy
